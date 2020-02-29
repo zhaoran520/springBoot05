@@ -1,0 +1,10 @@
+server:
+  port: 8080
+student:
+  sid: 3
+  sname: zs
+  list:
+    1
+    2
+  
+  
